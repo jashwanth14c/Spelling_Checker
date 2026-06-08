@@ -10,18 +10,11 @@ A web-based spell checker built with HTML, CSS, and JavaScript. The application 
 * Levenshtein Distance based matching
 * Simple and responsive user interface
 
-## Technologies Used
-
-* HTML
-* CSS
-* JavaScript
-
 ## How to Run
 
 1. Clone or download the repository.
 2. Open `main.html` in your browser.
-3. Enter text and click **Check Spelling**.
-
+3. Enter text and click Check Spelling.
 
 
 ## Algorithm Used
